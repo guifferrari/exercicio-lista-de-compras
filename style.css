@@ -1,0 +1,22 @@
+html {
+    background-color: #ccc;
+}
+
+h1 {
+     color: rgb(179, 26, 26);
+}
+
+li {
+    font-size:  30px;
+}
+
+.produto {
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.total {
+    font-size: 30px;
+    background-color: blueviolet;
+}
